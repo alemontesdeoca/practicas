@@ -1,0 +1,17 @@
+{ "type": "module",
+  "name": "esjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@es-js/terminal": "^0.0.22",
+    "@es-js/tiza": "^0.0.5",
+    "crypto-js": "^4.1.1"
+  }
+}
